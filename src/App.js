@@ -1,8 +1,7 @@
-import FullPageScroll from "./FullPageScroll";
-
+import React from "react";
 function App() {
   return (
-    <FullPageScroll/>
+    <div></div>
   );
 }
 export default App;
