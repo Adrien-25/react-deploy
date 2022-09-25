@@ -1,13 +1,8 @@
-import logo from './logo.svg';
-import './App.css';
+import FullPageScroll from "./FullPageScroll";
 
 function App() {
   return (
-    <div className="App">
-        <h1>Mon Application react</h1>
-        <h2>Auteur : Adrien SCHMIDT</h2>
-    </div>
+    <FullPageScroll/>
   );
 }
-
 export default App;
